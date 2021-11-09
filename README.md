@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=njagwani&label=Profile%20views&color=green&style=flat" alt="njagwani" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njagwani&theme=juicyfresh&row=2" alt="njagwani" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njagwani&theme=juicyfresh&row=2&column1&row2&column2" alt="njagwani" /></a> </p>
 
 - 🔭 I’m currently working on **2 Cloud Certification Exams :)**
 
