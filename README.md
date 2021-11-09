@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://nitinjagwani.me](https://nitinjagwani.me)
 
-- ⚡ Fun fact **I played some Intensive Indoor Cricket Regularly as a side passion.**
+- ⚡ Fun fact **I play Indoor Cricket here in U.A.E regularly as a side passion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
