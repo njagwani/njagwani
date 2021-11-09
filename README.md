@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njagwani&theme=blue-green" alt="njagwani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njagwani&show_icons=true&locale=en" alt="njagwani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njagwani&theme=blue-green" alt="njagwani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njagwani&" alt="njagwani" /></p>
 
