@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitin Jagwani</h1>
 <h3 align="center">Solutions Architect | Technical Implementation Specialist | DevOps Enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=njagwani&label=Profile%20views&color=green&style=flat" alt="njagwani" /> <img alt="GitHub forks" src="https://img.shields.io/github/forks/njagwani/AzureTimedTriggeredFunctionProject?color=green&style=flat-square">  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/njagwani?color=green&style=flat-square"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=njagwani&label=Profile%20views&color=green&style=flat" alt="njagwani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njagwani" alt="njagwani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njagwani&theme=juicyfresh" alt="njagwani" /></a> </p>
 
 - 🔭 I’m currently working on **2 Cloud Certification Exams :)**
 
