@@ -2,7 +2,7 @@
 <h3 align="center">Solutions Architect | Technical Implementation Specialist | DevOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njagwani&label=Profile%20views&color=green&style=flat" alt="njagwani" /> </p>
-<p align="left"> <img src="https:///gitlab/stars/fdroid/fdroidclient?username=njagwani&label=Profile%20views&color=green&style=flat" alt="njagwani" /> </p>
+<p align="left"> <img src="https://badgen.net/gitlab/stars/fdroid/fdroidclient?username=njagwani&label=Profile%20views&color=green&style=flat" alt="njagwani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njagwani" alt="njagwani" /></a> </p>
 
