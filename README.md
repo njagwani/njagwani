@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nitin Jagwani</h1>
-<h3 align="center">Solutions Architect | Technical Implementation Specialist | DevOps Enthusiast</h3>
+<h3 align="center">Senior DevOps Engineer | Technical Implementation Specialist | DevSecOps | Solutions Engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=njagwani&label=Profile%20views&color=green&style=flat" alt="njagwani" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=njagwani&theme=juicyfresh" alt="njagwani" /></a> </p>
 
-- 🔭 I’m currently working on **2 Cloud Certification Exams :)**
+- 🔭 I’m currently working on **2 Certification Exams - CKA and CKS :)**
 
-- 🌱 I’m currently learning **Azure Serverless Functions, Azure DevOps, Jenkins CI/CD**
+- 🌱 I’m currently learning **Data Lakes, Service Mesh - Istio & Consul**
 
-- 👯 I’m looking to collaborate on **Docker, Jenkins, CI/CD, Containers, Python Projects, Azure & GCP Projects**
-
-- 🤝 I’m looking for help with **Azure IOT on building serverless functions with help of C#**
+- 👯 I’m looking to collaborate on **Docker,Kubernetes, Logging & Montioring, Trivy, Jenkins, CI/CD, Containers, Python Projects, Azure & GCP Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/njagwani](https://github.com/njagwani)
 
-- 💬 Ask me about **Cloud, Dockers, Data, Serverless Functions, API Integration, SQL, ORACLE Databases**
+- 💬 Ask me about **Cloud, Dockers, Data, Serverless Functions, API Integration, SQL, ORACLE Databases, PostgreSQL DB, BuildING CI/CD pipelines with DevSecOps Lifecycle**
 
 - How to reach me **https://www.linkedin.com/in/nitinjagwani/**
 
@@ -36,5 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njagwani&theme=blue-green" alt="njagwani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njagwani&" alt="njagwani" /></p>
-
-
